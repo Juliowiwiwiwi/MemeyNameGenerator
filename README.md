@@ -1,16 +1,24 @@
-# namer_app
+📱 Meme Name Generator App (Flutter)
 
-A new Flutter project.
+A quirky Flutter app that randomly generates meme-style names using word pairs like beefy_waffle or sassy_mango. With a clean UI and built-in favorites system, you can generate, like, and save the most ridiculous name combos ever. Perfect for naming your next Wi-Fi, pet, or alter ego 🤓
+🧠 Features
 
-## Getting Started
+    🔀 Generates random, meme-worthy name combinations
 
-This project is a starting point for a Flutter application.
+    ❤️ Like your favorites and save them for later
 
-A few resources to get you started if this is your first Flutter project:
+    🗑️ Easily remove saved names you regret
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    🎨 Clean, modern UI with navigation between Home & Favorites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ⚡ Built with Flutter, english_words package & Provider
+
+🛠️ Tech Stack
+
+    Flutter + Dart
+
+    Provider (state management)
+
+    english_words package for word generation
+
+    Material Design
